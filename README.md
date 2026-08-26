@@ -1,9 +1,11 @@
 # Virginia Perpetua Marketing
 
+> **Primary:** GitHub. GitLab (`virginia-perpetua/design-system/*`) is a mirror.
+
 Static marketing / portfolio site for Virginia Perpetua — pages from the Claude Design export.
 
-- [`assets`](https://gitlab.com/virginia-perpetua/design-system/assets) — logos, photos, banners, screenshots
-- [`tokens`](https://gitlab.com/virginia-perpetua/design-system/tokens) — `--vp-*` design tokens
+- [`assets`](https://github.com/virgiperpetua/assets) — logos, photos, banners, screenshots
+- [`tokens`](https://github.com/virgiperpetua/tokens) — `--vp-*` design tokens
 
 ## Pages
 
